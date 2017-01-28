@@ -1,6 +1,12 @@
 # [Echo-part] - Les partitions de musique
 Ici sont regroupées toutes les partitions scannées, réécrites et complétées.
 
+## Outils
+Voici la liste d'outils utilisés pour ce repository
+ - L'application [MuseScore 2.0](https://musescore.org/en/download)
+ - Le gestionnaire de sources [Git](https://git-scm.com/download)
+ - L'interface graphique pour Git, [GitExtensions](https://github.com/gitextensions/gitextensions/releases/tag/v2.49)
+
 ## Organisation
 L'organisation des répertoires est assez simple et correspond au titre du morceau.
 Ensuite, le contenu peut être parmi les éléments suivants:
