@@ -16,5 +16,15 @@ Ensuite, le contenu peut être parmi les éléments suivants:
  - Un/plusieurs fichiers PDF résultat de la production (pour impression), nommé `nom-du-morceau_instrument.pdf` ou `nom-du-morceau.pdf` (si conducteur)
  - Un/plusieurs fichiers MP3 ou MID si génération de la totalité ou un partie de la partition dans un format audio
  
-
+## Format de documents
+En fonction de l'utilisation, les documents PDF peuvent être générés dans différents formats.
+ - Format A4 portrait, pour utilisation en tant que conducteur ou dans un classeur/trieur
+   - Dimensions : 21 x 29.7 (L x H)
+   - Marge : 5mm ou 10mm
+ - Format MB2F (Marching Band Flip Folder), pour utilisation dans les porte partitions à fixer sur une lyre
+   - Dimensions : 171 x 133 (L x H)
+   - Marge : 5mm
+ - Format Kobo, optimisé pour liseuse Kobo (**à compléter/màj au besoin**)
+   - Dimensions : 89 x 119 (L x H)
+   - Marge : 1mm
 
